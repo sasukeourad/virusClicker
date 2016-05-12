@@ -1,4 +1,4 @@
-# IT-Sec-AG
+# virusClicker
 
 Solution for the tm CTF "VirusClicker" android challenge
 
